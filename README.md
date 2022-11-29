@@ -16,7 +16,7 @@ A continuación, se adjuntarán los enlaces para acceder a los dashboards de Tab
 [Enlace a la visualización](https://public.tableau.com/app/profile/francisco.fern.ndez.poyato2688/viz/Gaugue/Hoja1)
 
 
-· ***Upset: Visualize Intersecting sets*
+· **Upset: Visualize Intersecting sets**
 
 [Enlace a la visualización](https://public.tableau.com/app/profile/francisco.fern.ndez.poyato2688/viz/Upset/Dashboard1)
 
