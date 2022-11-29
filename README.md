@@ -1,4 +1,4 @@
-# Práctica 2 Visualización de datos
+# Práctica 2 Visualización de datos. Estudio de técnicas de visualización de datos
 
 ## [Francisco Fernández Poyato](https://public.tableau.com/app/profile/francisco.fern.ndez.poyato2688)
 
